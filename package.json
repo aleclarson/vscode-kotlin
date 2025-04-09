@@ -411,6 +411,7 @@
         "semver": "^7.3.5",
         "vscode-debugadapter": "^1.47.0",
         "vscode-debugprotocol": "^1.47.0",
-        "vscode-languageclient": "8.0.2-next.5"
+        "vscode-jsonrpc": "^8.1.0",
+        "vscode-languageclient": "8.1.0"
     }
 }
